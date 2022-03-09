@@ -1,0 +1,41 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\DIO\MRV\Clone dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+D:\DIO\MRV\Clone dotnet\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\DIO\MRV\Clone dotnet\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\DIO\MRV\Clone dotnet\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\DIO\MRV\Clone dotnet\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\DIO\MRV\Clone dotnet\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\DIO\MRV\Clone dotnet\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\DIO\MRV\Clone dotnet\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
